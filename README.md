@@ -13,6 +13,9 @@
 
 <img width="297" alt="image" src="https://github.com/1851823350/aiyou-backend/assets/85384608/17410afe-dc41-4bd0-b8bc-7cb994f4307f">
 
+<img width="287" alt="image" src="https://github.com/1851823350/aiyou-backend/assets/85384608/a7726b16-4fad-4a49-b7ba-40ccee07eae3">
+
+
 
 **个人信息页：**
 
@@ -23,10 +26,13 @@
 
 <img width="324" alt="image" src="https://github.com/1851823350/aiyou-backend/assets/85384608/58e2d7f1-e06f-4a30-8038-8c32101390ce">
 
+<img width="318" alt="image" src="https://github.com/1851823350/aiyou-backend/assets/85384608/7f183ad5-45bf-45c1-a03d-2c5508c58309">
+
+
 
 **主页：**
-<img width="303" alt="image" src="https://github.com/1851823350/aiyou-backend/assets/85384608/25826d73-2be3-4fea-9f4c-44d73fdbc2cd">
 
+<img width="303" alt="image" src="https://github.com/1851823350/aiyou-backend/assets/85384608/25826d73-2be3-4fea-9f4c-44d73fdbc2cd">
 
 
 ## 技术选型
