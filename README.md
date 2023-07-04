@@ -4,21 +4,30 @@
 
         一个帮助人们找到志同道合的朋友的移动端网站（APP风格），包括用户登录、更新个人信息、推荐用户等功能。  
 
-**主页：**
+**登录：**
 
-![](file:///D:/ProgramData/XingQiuProgramData/pictures/%E4%B8%BB%E9%A1%B5.png?msec=1684125377191)
+<img width="281" alt="image" src="https://github.com/1851823350/aiyou-backend/assets/85384608/7d3b8ddf-b599-4ff7-a8e7-a156dfccb857">
+
 
 **队伍：**
 
-![](file:///D:/ProgramData/XingQiuProgramData/pictures/%E9%98%9F%E4%BC%8D.png?msec=1684125426727)
+<img width="297" alt="image" src="https://github.com/1851823350/aiyou-backend/assets/85384608/17410afe-dc41-4bd0-b8bc-7cb994f4307f">
+
 
 **个人信息页：**
 
-![](file:///D:/ProgramData/XingQiuProgramData/pictures/%E4%B8%AA%E4%BA%BA%E4%BF%A1%E6%81%AF.png?msec=1684125458944)
+<img width="316" alt="image" src="https://github.com/1851823350/aiyou-backend/assets/85384608/e51c06a6-3d6b-4a4f-85f6-76cee3736827">
+
 
 **查找：**
 
-![](file:///D:/ProgramData/XingQiuProgramData/pictures/%E6%9F%A5%E6%89%BE.png?msec=1684125502456)
+<img width="324" alt="image" src="https://github.com/1851823350/aiyou-backend/assets/85384608/58e2d7f1-e06f-4a30-8038-8c32101390ce">
+
+
+**主页：**
+<img width="303" alt="image" src="https://github.com/1851823350/aiyou-backend/assets/85384608/25826d73-2be3-4fea-9f4c-44d73fdbc2cd">
+
+
 
 ## 技术选型
 
